@@ -1,0 +1,275 @@
+[
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 7.01,
+    "date": {
+      "utc": "2024-02-03T12:26:13+00:00",
+      "local": "2024-02-03T17:56:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.82,
+    "date": {
+      "utc": "2024-02-03T12:20:12+00:00",
+      "local": "2024-02-03T17:50:12+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.52,
+    "date": {
+      "utc": "2024-02-03T11:50:12+00:00",
+      "local": "2024-02-03T17:20:12+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.52,
+    "date": {
+      "utc": "2024-02-03T11:48:13+00:00",
+      "local": "2024-02-03T17:18:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.36,
+    "date": {
+      "utc": "2024-02-03T11:46:13+00:00",
+      "local": "2024-02-03T17:16:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.52,
+    "date": {
+      "utc": "2024-02-03T11:44:12+00:00",
+      "local": "2024-02-03T17:14:12+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.2,
+    "date": {
+      "utc": "2024-02-03T11:40:13+00:00",
+      "local": "2024-02-03T17:10:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.11,
+    "date": {
+      "utc": "2024-02-03T11:32:13+00:00",
+      "local": "2024-02-03T17:02:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.07,
+    "date": {
+      "utc": "2024-02-03T11:28:13+00:00",
+      "local": "2024-02-03T16:58:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.46,
+    "date": {
+      "utc": "2024-02-03T11:00:12+00:00",
+      "local": "2024-02-03T16:30:12+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.25,
+    "date": {
+      "utc": "2024-02-03T10:54:13+00:00",
+      "local": "2024-02-03T16:24:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.07,
+    "date": {
+      "utc": "2024-02-03T10:52:13+00:00",
+      "local": "2024-02-03T16:22:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 220704,
+    "location": "NASA_AQCS_132",
+    "parameter": "um010",
+    "value": 6.2,
+    "date": {
+      "utc": "2024-02-03T10:50:13+00:00",
+      "local": "2024-02-03T16:20:13+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 22.318556,
+      "longitude": 87.3121
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

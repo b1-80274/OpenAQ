@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.0,
+    "date": {
+      "utc": "2024-02-05T05:29:26+00:00",
+      "local": "2024-02-05T10:59:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:27:26+00:00",
+      "local": "2024-02-05T10:57:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:25:26+00:00",
+      "local": "2024-02-05T10:55:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.01,
+    "date": {
+      "utc": "2024-02-05T05:23:26+00:00",
+      "local": "2024-02-05T10:53:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:21:26+00:00",
+      "local": "2024-02-05T10:51:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.01,
+    "date": {
+      "utc": "2024-02-05T05:19:27+00:00",
+      "local": "2024-02-05T10:49:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:17:26+00:00",
+      "local": "2024-02-05T10:47:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:15:26+00:00",
+      "local": "2024-02-05T10:45:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.01,
+    "date": {
+      "utc": "2024-02-05T05:13:26+00:00",
+      "local": "2024-02-05T10:43:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.01,
+    "date": {
+      "utc": "2024-02-05T05:11:26+00:00",
+      "local": "2024-02-05T10:41:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:09:26+00:00",
+      "local": "2024-02-05T10:39:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T05:07:26+00:00",
+      "local": "2024-02-05T10:37:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:05:26+00:00",
+      "local": "2024-02-05T10:35:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T05:03:26+00:00",
+      "local": "2024-02-05T10:33:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.01,
+    "date": {
+      "utc": "2024-02-05T05:01:26+00:00",
+      "local": "2024-02-05T10:31:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T04:59:26+00:00",
+      "local": "2024-02-05T10:29:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:57:26+00:00",
+      "local": "2024-02-05T10:27:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:55:26+00:00",
+      "local": "2024-02-05T10:25:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:53:26+00:00",
+      "local": "2024-02-05T10:23:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T04:51:26+00:00",
+      "local": "2024-02-05T10:21:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T04:49:26+00:00",
+      "local": "2024-02-05T10:19:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T04:47:26+00:00",
+      "local": "2024-02-05T10:17:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:45:25+00:00",
+      "local": "2024-02-05T10:15:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T04:43:26+00:00",
+      "local": "2024-02-05T10:13:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:41:25+00:00",
+      "local": "2024-02-05T10:11:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.05,
+    "date": {
+      "utc": "2024-02-05T04:39:25+00:00",
+      "local": "2024-02-05T10:09:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T04:37:26+00:00",
+      "local": "2024-02-05T10:07:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T04:35:25+00:00",
+      "local": "2024-02-05T10:05:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:33:26+00:00",
+      "local": "2024-02-05T10:03:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:31:26+00:00",
+      "local": "2024-02-05T10:01:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:29:25+00:00",
+      "local": "2024-02-05T09:59:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:27:26+00:00",
+      "local": "2024-02-05T09:57:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:25:26+00:00",
+      "local": "2024-02-05T09:55:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:23:25+00:00",
+      "local": "2024-02-05T09:53:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T04:21:26+00:00",
+      "local": "2024-02-05T09:51:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:19:26+00:00",
+      "local": "2024-02-05T09:49:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.02,
+    "date": {
+      "utc": "2024-02-05T04:17:26+00:00",
+      "local": "2024-02-05T09:47:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:13:26+00:00",
+      "local": "2024-02-05T09:43:26+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:11:25+00:00",
+      "local": "2024-02-05T09:41:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:09:24+00:00",
+      "local": "2024-02-05T09:39:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T04:07:24+00:00",
+      "local": "2024-02-05T09:37:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T04:05:24+00:00",
+      "local": "2024-02-05T09:35:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:03:24+00:00",
+      "local": "2024-02-05T09:33:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T04:01:25+00:00",
+      "local": "2024-02-05T09:31:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T03:59:24+00:00",
+      "local": "2024-02-05T09:29:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.05,
+    "date": {
+      "utc": "2024-02-05T03:57:24+00:00",
+      "local": "2024-02-05T09:27:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T03:55:25+00:00",
+      "local": "2024-02-05T09:25:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.05,
+    "date": {
+      "utc": "2024-02-05T03:53:24+00:00",
+      "local": "2024-02-05T09:23:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.05,
+    "date": {
+      "utc": "2024-02-05T03:51:24+00:00",
+      "local": "2024-02-05T09:21:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T03:49:25+00:00",
+      "local": "2024-02-05T09:19:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T03:47:24+00:00",
+      "local": "2024-02-05T09:17:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:45:25+00:00",
+      "local": "2024-02-05T09:15:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.03,
+    "date": {
+      "utc": "2024-02-05T03:43:25+00:00",
+      "local": "2024-02-05T09:13:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:41:24+00:00",
+      "local": "2024-02-05T09:11:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:39:24+00:00",
+      "local": "2024-02-05T09:09:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.04,
+    "date": {
+      "utc": "2024-02-05T03:37:24+00:00",
+      "local": "2024-02-05T09:07:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:35:24+00:00",
+      "local": "2024-02-05T09:05:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:33:24+00:00",
+      "local": "2024-02-05T09:03:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T03:31:25+00:00",
+      "local": "2024-02-05T09:01:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:29:24+00:00",
+      "local": "2024-02-05T08:59:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T03:27:24+00:00",
+      "local": "2024-02-05T08:57:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T03:25:25+00:00",
+      "local": "2024-02-05T08:55:25+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T03:23:24+00:00",
+      "local": "2024-02-05T08:53:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T03:21:24+00:00",
+      "local": "2024-02-05T08:51:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T03:19:24+00:00",
+      "local": "2024-02-05T08:49:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:17:24+00:00",
+      "local": "2024-02-05T08:47:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T03:15:24+00:00",
+      "local": "2024-02-05T08:45:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T03:13:24+00:00",
+      "local": "2024-02-05T08:43:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T03:11:24+00:00",
+      "local": "2024-02-05T08:41:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T03:09:23+00:00",
+      "local": "2024-02-05T08:39:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T03:07:24+00:00",
+      "local": "2024-02-05T08:37:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T03:05:23+00:00",
+      "local": "2024-02-05T08:35:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T03:03:23+00:00",
+      "local": "2024-02-05T08:33:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T03:01:23+00:00",
+      "local": "2024-02-05T08:31:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T02:59:23+00:00",
+      "local": "2024-02-05T08:29:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.06,
+    "date": {
+      "utc": "2024-02-05T02:57:23+00:00",
+      "local": "2024-02-05T08:27:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T02:55:23+00:00",
+      "local": "2024-02-05T08:25:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T02:53:23+00:00",
+      "local": "2024-02-05T08:23:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T02:51:23+00:00",
+      "local": "2024-02-05T08:21:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:49:23+00:00",
+      "local": "2024-02-05T08:19:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:47:23+00:00",
+      "local": "2024-02-05T08:17:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.08,
+    "date": {
+      "utc": "2024-02-05T02:45:23+00:00",
+      "local": "2024-02-05T08:15:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.13,
+    "date": {
+      "utc": "2024-02-05T02:43:23+00:00",
+      "local": "2024-02-05T08:13:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:41:23+00:00",
+      "local": "2024-02-05T08:11:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:39:23+00:00",
+      "local": "2024-02-05T08:09:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:37:23+00:00",
+      "local": "2024-02-05T08:07:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.13,
+    "date": {
+      "utc": "2024-02-05T02:35:24+00:00",
+      "local": "2024-02-05T08:05:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.11,
+    "date": {
+      "utc": "2024-02-05T02:33:23+00:00",
+      "local": "2024-02-05T08:03:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.13,
+    "date": {
+      "utc": "2024-02-05T02:31:23+00:00",
+      "local": "2024-02-05T08:01:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T02:29:23+00:00",
+      "local": "2024-02-05T07:59:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T02:27:23+00:00",
+      "local": "2024-02-05T07:57:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:25:23+00:00",
+      "local": "2024-02-05T07:55:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.1,
+    "date": {
+      "utc": "2024-02-05T02:23:23+00:00",
+      "local": "2024-02-05T07:53:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:21:23+00:00",
+      "local": "2024-02-05T07:51:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T02:19:23+00:00",
+      "local": "2024-02-05T07:49:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:17:23+00:00",
+      "local": "2024-02-05T07:47:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:15:23+00:00",
+      "local": "2024-02-05T07:45:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:13:23+00:00",
+      "local": "2024-02-05T07:43:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.07,
+    "date": {
+      "utc": "2024-02-05T02:11:23+00:00",
+      "local": "2024-02-05T07:41:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 288233,
+    "location": "Device 1",
+    "parameter": "um100",
+    "value": 0.09,
+    "date": {
+      "utc": "2024-02-05T02:09:22+00:00",
+      "local": "2024-02-05T07:39:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 23.243282,
+      "longitude": 72.49219
+    },
+    "country": "US",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

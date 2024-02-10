@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 104.9,
+    "date": {
+      "utc": "2024-02-04T05:29:24+00:00",
+      "local": "2024-02-04T10:59:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 106.0,
+    "date": {
+      "utc": "2024-02-04T05:27:24+00:00",
+      "local": "2024-02-04T10:57:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 106.4,
+    "date": {
+      "utc": "2024-02-04T05:25:24+00:00",
+      "local": "2024-02-04T10:55:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 106.5,
+    "date": {
+      "utc": "2024-02-04T05:23:24+00:00",
+      "local": "2024-02-04T10:53:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 105.1,
+    "date": {
+      "utc": "2024-02-04T05:21:24+00:00",
+      "local": "2024-02-04T10:51:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 104.7,
+    "date": {
+      "utc": "2024-02-04T05:19:24+00:00",
+      "local": "2024-02-04T10:49:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 107.2,
+    "date": {
+      "utc": "2024-02-04T05:17:24+00:00",
+      "local": "2024-02-04T10:47:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 106.4,
+    "date": {
+      "utc": "2024-02-04T05:15:24+00:00",
+      "local": "2024-02-04T10:45:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 100.3,
+    "date": {
+      "utc": "2024-02-04T05:13:24+00:00",
+      "local": "2024-02-04T10:43:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.1,
+    "date": {
+      "utc": "2024-02-04T05:11:24+00:00",
+      "local": "2024-02-04T10:41:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 101.1,
+    "date": {
+      "utc": "2024-02-04T05:09:24+00:00",
+      "local": "2024-02-04T10:39:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 101.8,
+    "date": {
+      "utc": "2024-02-04T05:07:24+00:00",
+      "local": "2024-02-04T10:37:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.8,
+    "date": {
+      "utc": "2024-02-04T05:05:24+00:00",
+      "local": "2024-02-04T10:35:24+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 98.7,
+    "date": {
+      "utc": "2024-02-04T05:03:23+00:00",
+      "local": "2024-02-04T10:33:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 97.9,
+    "date": {
+      "utc": "2024-02-04T05:01:23+00:00",
+      "local": "2024-02-04T10:31:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 98.5,
+    "date": {
+      "utc": "2024-02-04T04:59:23+00:00",
+      "local": "2024-02-04T10:29:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 98.1,
+    "date": {
+      "utc": "2024-02-04T04:57:23+00:00",
+      "local": "2024-02-04T10:27:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 97.4,
+    "date": {
+      "utc": "2024-02-04T04:55:23+00:00",
+      "local": "2024-02-04T10:25:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 97.0,
+    "date": {
+      "utc": "2024-02-04T04:53:23+00:00",
+      "local": "2024-02-04T10:23:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 98.6,
+    "date": {
+      "utc": "2024-02-04T04:51:23+00:00",
+      "local": "2024-02-04T10:21:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.2,
+    "date": {
+      "utc": "2024-02-04T04:49:23+00:00",
+      "local": "2024-02-04T10:19:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 100.0,
+    "date": {
+      "utc": "2024-02-04T04:47:23+00:00",
+      "local": "2024-02-04T10:17:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 98.2,
+    "date": {
+      "utc": "2024-02-04T04:45:23+00:00",
+      "local": "2024-02-04T10:15:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 97.4,
+    "date": {
+      "utc": "2024-02-04T04:43:23+00:00",
+      "local": "2024-02-04T10:13:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 96.3,
+    "date": {
+      "utc": "2024-02-04T04:41:23+00:00",
+      "local": "2024-02-04T10:11:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 95.9,
+    "date": {
+      "utc": "2024-02-04T04:39:23+00:00",
+      "local": "2024-02-04T10:09:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.5,
+    "date": {
+      "utc": "2024-02-04T04:37:23+00:00",
+      "local": "2024-02-04T10:07:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.2,
+    "date": {
+      "utc": "2024-02-04T04:35:23+00:00",
+      "local": "2024-02-04T10:05:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 93.3,
+    "date": {
+      "utc": "2024-02-04T04:33:23+00:00",
+      "local": "2024-02-04T10:03:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 93.8,
+    "date": {
+      "utc": "2024-02-04T04:31:23+00:00",
+      "local": "2024-02-04T10:01:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 92.4,
+    "date": {
+      "utc": "2024-02-04T04:29:23+00:00",
+      "local": "2024-02-04T09:59:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 93.5,
+    "date": {
+      "utc": "2024-02-04T04:27:23+00:00",
+      "local": "2024-02-04T09:57:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 93.0,
+    "date": {
+      "utc": "2024-02-04T04:25:23+00:00",
+      "local": "2024-02-04T09:55:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.5,
+    "date": {
+      "utc": "2024-02-04T04:21:23+00:00",
+      "local": "2024-02-04T09:51:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 96.4,
+    "date": {
+      "utc": "2024-02-04T04:19:23+00:00",
+      "local": "2024-02-04T09:49:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 100.9,
+    "date": {
+      "utc": "2024-02-04T04:17:23+00:00",
+      "local": "2024-02-04T09:47:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.6,
+    "date": {
+      "utc": "2024-02-04T04:15:23+00:00",
+      "local": "2024-02-04T09:45:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.7,
+    "date": {
+      "utc": "2024-02-04T04:13:23+00:00",
+      "local": "2024-02-04T09:43:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 103.7,
+    "date": {
+      "utc": "2024-02-04T04:11:23+00:00",
+      "local": "2024-02-04T09:41:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 105.0,
+    "date": {
+      "utc": "2024-02-04T04:09:23+00:00",
+      "local": "2024-02-04T09:39:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 104.9,
+    "date": {
+      "utc": "2024-02-04T04:07:23+00:00",
+      "local": "2024-02-04T09:37:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 104.9,
+    "date": {
+      "utc": "2024-02-04T04:05:23+00:00",
+      "local": "2024-02-04T09:35:23+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 100.8,
+    "date": {
+      "utc": "2024-02-04T04:03:22+00:00",
+      "local": "2024-02-04T09:33:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 99.7,
+    "date": {
+      "utc": "2024-02-04T04:01:22+00:00",
+      "local": "2024-02-04T09:31:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 96.3,
+    "date": {
+      "utc": "2024-02-04T03:59:22+00:00",
+      "local": "2024-02-04T09:29:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 96.0,
+    "date": {
+      "utc": "2024-02-04T03:57:22+00:00",
+      "local": "2024-02-04T09:27:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 95.2,
+    "date": {
+      "utc": "2024-02-04T03:55:22+00:00",
+      "local": "2024-02-04T09:25:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 93.7,
+    "date": {
+      "utc": "2024-02-04T03:53:22+00:00",
+      "local": "2024-02-04T09:23:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.3,
+    "date": {
+      "utc": "2024-02-04T03:51:22+00:00",
+      "local": "2024-02-04T09:21:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.3,
+    "date": {
+      "utc": "2024-02-04T03:49:22+00:00",
+      "local": "2024-02-04T09:19:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 91.9,
+    "date": {
+      "utc": "2024-02-04T03:47:22+00:00",
+      "local": "2024-02-04T09:17:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 92.4,
+    "date": {
+      "utc": "2024-02-04T03:45:22+00:00",
+      "local": "2024-02-04T09:15:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 92.6,
+    "date": {
+      "utc": "2024-02-04T03:43:22+00:00",
+      "local": "2024-02-04T09:13:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 102.3,
+    "date": {
+      "utc": "2024-02-04T03:41:22+00:00",
+      "local": "2024-02-04T09:11:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 114.0,
+    "date": {
+      "utc": "2024-02-04T03:39:22+00:00",
+      "local": "2024-02-04T09:09:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 111.6,
+    "date": {
+      "utc": "2024-02-04T03:37:22+00:00",
+      "local": "2024-02-04T09:07:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 94.2,
+    "date": {
+      "utc": "2024-02-04T03:35:22+00:00",
+      "local": "2024-02-04T09:05:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 85.8,
+    "date": {
+      "utc": "2024-02-04T03:33:22+00:00",
+      "local": "2024-02-04T09:03:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 86.9,
+    "date": {
+      "utc": "2024-02-04T03:31:22+00:00",
+      "local": "2024-02-04T09:01:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 87.6,
+    "date": {
+      "utc": "2024-02-04T03:29:22+00:00",
+      "local": "2024-02-04T08:59:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 87.8,
+    "date": {
+      "utc": "2024-02-04T03:27:22+00:00",
+      "local": "2024-02-04T08:57:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 89.2,
+    "date": {
+      "utc": "2024-02-04T03:25:22+00:00",
+      "local": "2024-02-04T08:55:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 88.7,
+    "date": {
+      "utc": "2024-02-04T03:23:22+00:00",
+      "local": "2024-02-04T08:53:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 89.4,
+    "date": {
+      "utc": "2024-02-04T03:21:22+00:00",
+      "local": "2024-02-04T08:51:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 91.8,
+    "date": {
+      "utc": "2024-02-04T03:19:22+00:00",
+      "local": "2024-02-04T08:49:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 92.8,
+    "date": {
+      "utc": "2024-02-04T03:17:22+00:00",
+      "local": "2024-02-04T08:47:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 90.3,
+    "date": {
+      "utc": "2024-02-04T03:15:22+00:00",
+      "local": "2024-02-04T08:45:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 87.4,
+    "date": {
+      "utc": "2024-02-04T03:13:22+00:00",
+      "local": "2024-02-04T08:43:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 86.9,
+    "date": {
+      "utc": "2024-02-04T03:11:22+00:00",
+      "local": "2024-02-04T08:41:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 87.2,
+    "date": {
+      "utc": "2024-02-04T03:09:22+00:00",
+      "local": "2024-02-04T08:39:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 83.9,
+    "date": {
+      "utc": "2024-02-04T03:07:22+00:00",
+      "local": "2024-02-04T08:37:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 82.0,
+    "date": {
+      "utc": "2024-02-04T03:05:22+00:00",
+      "local": "2024-02-04T08:35:22+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 82.1,
+    "date": {
+      "utc": "2024-02-04T03:03:21+00:00",
+      "local": "2024-02-04T08:33:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 82.3,
+    "date": {
+      "utc": "2024-02-04T03:01:21+00:00",
+      "local": "2024-02-04T08:31:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 80.7,
+    "date": {
+      "utc": "2024-02-04T02:59:21+00:00",
+      "local": "2024-02-04T08:29:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 80.8,
+    "date": {
+      "utc": "2024-02-04T02:57:21+00:00",
+      "local": "2024-02-04T08:27:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.2,
+    "date": {
+      "utc": "2024-02-04T02:55:21+00:00",
+      "local": "2024-02-04T08:25:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.0,
+    "date": {
+      "utc": "2024-02-04T02:53:21+00:00",
+      "local": "2024-02-04T08:23:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.3,
+    "date": {
+      "utc": "2024-02-04T02:51:21+00:00",
+      "local": "2024-02-04T08:21:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.3,
+    "date": {
+      "utc": "2024-02-04T02:49:21+00:00",
+      "local": "2024-02-04T08:19:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 78.8,
+    "date": {
+      "utc": "2024-02-04T02:47:21+00:00",
+      "local": "2024-02-04T08:17:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.5,
+    "date": {
+      "utc": "2024-02-04T02:45:21+00:00",
+      "local": "2024-02-04T08:15:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 81.7,
+    "date": {
+      "utc": "2024-02-04T02:43:21+00:00",
+      "local": "2024-02-04T08:13:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 80.7,
+    "date": {
+      "utc": "2024-02-04T02:41:21+00:00",
+      "local": "2024-02-04T08:11:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.9,
+    "date": {
+      "utc": "2024-02-04T02:39:21+00:00",
+      "local": "2024-02-04T08:09:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 78.3,
+    "date": {
+      "utc": "2024-02-04T02:37:21+00:00",
+      "local": "2024-02-04T08:07:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 78.8,
+    "date": {
+      "utc": "2024-02-04T02:35:21+00:00",
+      "local": "2024-02-04T08:05:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.6,
+    "date": {
+      "utc": "2024-02-04T02:31:21+00:00",
+      "local": "2024-02-04T08:01:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.0,
+    "date": {
+      "utc": "2024-02-04T02:29:21+00:00",
+      "local": "2024-02-04T07:59:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 77.2,
+    "date": {
+      "utc": "2024-02-04T02:27:21+00:00",
+      "local": "2024-02-04T07:57:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 79.1,
+    "date": {
+      "utc": "2024-02-04T02:25:21+00:00",
+      "local": "2024-02-04T07:55:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 78.0,
+    "date": {
+      "utc": "2024-02-04T02:23:21+00:00",
+      "local": "2024-02-04T07:53:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 77.5,
+    "date": {
+      "utc": "2024-02-04T02:21:21+00:00",
+      "local": "2024-02-04T07:51:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 75.7,
+    "date": {
+      "utc": "2024-02-04T02:19:21+00:00",
+      "local": "2024-02-04T07:49:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 74.5,
+    "date": {
+      "utc": "2024-02-04T02:17:21+00:00",
+      "local": "2024-02-04T07:47:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 74.8,
+    "date": {
+      "utc": "2024-02-04T02:15:21+00:00",
+      "local": "2024-02-04T07:45:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 75.2,
+    "date": {
+      "utc": "2024-02-04T02:13:21+00:00",
+      "local": "2024-02-04T07:43:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 75.5,
+    "date": {
+      "utc": "2024-02-04T02:11:21+00:00",
+      "local": "2024-02-04T07:41:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 74.8,
+    "date": {
+      "utc": "2024-02-04T02:09:21+00:00",
+      "local": "2024-02-04T07:39:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "pm1",
+    "value": 75.2,
+    "date": {
+      "utc": "2024-02-04T02:07:21+00:00",
+      "local": "2024-02-04T07:37:21+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

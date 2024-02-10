@@ -1,0 +1,12 @@
+CREATE EXTERNAL TABLE staging(location STRING, parameter STRING,value STRING,date ARRAY<STRING>,unit STRING,coordinates ARRAY<STRING>,country STRING,city STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+COLLECTION ITEMS TERMINATED BY ','
+MAP KEYS TERMINATED BY ':'
+LOCATION '/user/OpenAQ/data/india/2024/01/1';
+
+CREATE EXTERNAL TABLE staging_table (data ARRAY<STRUCT<location: STRING,parameter: STRING,value: DOUBLE,date_: STRUCT<utc: STRING, local_: STRING>,unit: STRING,coordinates: STRUCT<latitude: DOUBLE, longitude: DOUBLE>,country: STRING,city: STRING>>)
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+WITH SERDEPROPERTIES ("ignore.malformed.json" = "true")
+LOCATION '/user/OpenAQ/data/india/2024/01/1';
+

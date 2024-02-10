@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.16,
+    "date": {
+      "utc": "2024-02-04T05:28:30+00:00",
+      "local": "2024-02-04T10:58:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 53.52,
+    "date": {
+      "utc": "2024-02-04T05:26:30+00:00",
+      "local": "2024-02-04T10:56:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 53.81,
+    "date": {
+      "utc": "2024-02-04T05:24:30+00:00",
+      "local": "2024-02-04T10:54:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.4,
+    "date": {
+      "utc": "2024-02-04T05:22:30+00:00",
+      "local": "2024-02-04T10:52:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 53.65,
+    "date": {
+      "utc": "2024-02-04T05:20:30+00:00",
+      "local": "2024-02-04T10:50:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 52.17,
+    "date": {
+      "utc": "2024-02-04T05:18:30+00:00",
+      "local": "2024-02-04T10:48:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 53.85,
+    "date": {
+      "utc": "2024-02-04T05:16:30+00:00",
+      "local": "2024-02-04T10:46:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.76,
+    "date": {
+      "utc": "2024-02-04T05:14:30+00:00",
+      "local": "2024-02-04T10:44:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 55.17,
+    "date": {
+      "utc": "2024-02-04T05:12:29+00:00",
+      "local": "2024-02-04T10:42:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 56.3,
+    "date": {
+      "utc": "2024-02-04T05:10:29+00:00",
+      "local": "2024-02-04T10:40:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.95,
+    "date": {
+      "utc": "2024-02-04T05:08:29+00:00",
+      "local": "2024-02-04T10:38:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 55.87,
+    "date": {
+      "utc": "2024-02-04T05:06:29+00:00",
+      "local": "2024-02-04T10:36:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.02,
+    "date": {
+      "utc": "2024-02-04T05:04:29+00:00",
+      "local": "2024-02-04T10:34:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 55.13,
+    "date": {
+      "utc": "2024-02-04T05:02:29+00:00",
+      "local": "2024-02-04T10:32:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 52.76,
+    "date": {
+      "utc": "2024-02-04T05:00:30+00:00",
+      "local": "2024-02-04T10:30:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 53.98,
+    "date": {
+      "utc": "2024-02-04T04:58:29+00:00",
+      "local": "2024-02-04T10:28:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.0,
+    "date": {
+      "utc": "2024-02-04T04:56:29+00:00",
+      "local": "2024-02-04T10:26:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 56.07,
+    "date": {
+      "utc": "2024-02-04T04:54:29+00:00",
+      "local": "2024-02-04T10:24:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 59.02,
+    "date": {
+      "utc": "2024-02-04T04:52:29+00:00",
+      "local": "2024-02-04T10:22:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 58.59,
+    "date": {
+      "utc": "2024-02-04T04:50:29+00:00",
+      "local": "2024-02-04T10:20:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 61.26,
+    "date": {
+      "utc": "2024-02-04T04:48:29+00:00",
+      "local": "2024-02-04T10:18:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 58.73,
+    "date": {
+      "utc": "2024-02-04T04:46:29+00:00",
+      "local": "2024-02-04T10:16:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.8,
+    "date": {
+      "utc": "2024-02-04T04:44:29+00:00",
+      "local": "2024-02-04T10:14:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 52.16,
+    "date": {
+      "utc": "2024-02-04T04:42:29+00:00",
+      "local": "2024-02-04T10:12:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 54.79,
+    "date": {
+      "utc": "2024-02-04T04:40:29+00:00",
+      "local": "2024-02-04T10:10:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 55.79,
+    "date": {
+      "utc": "2024-02-04T04:38:29+00:00",
+      "local": "2024-02-04T10:08:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 60.35,
+    "date": {
+      "utc": "2024-02-04T04:36:29+00:00",
+      "local": "2024-02-04T10:06:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 56.1,
+    "date": {
+      "utc": "2024-02-04T04:32:30+00:00",
+      "local": "2024-02-04T10:02:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 56.5,
+    "date": {
+      "utc": "2024-02-04T04:30:29+00:00",
+      "local": "2024-02-04T10:00:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 57.36,
+    "date": {
+      "utc": "2024-02-04T04:28:30+00:00",
+      "local": "2024-02-04T09:58:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 61.66,
+    "date": {
+      "utc": "2024-02-04T04:26:29+00:00",
+      "local": "2024-02-04T09:56:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 60.19,
+    "date": {
+      "utc": "2024-02-04T04:24:29+00:00",
+      "local": "2024-02-04T09:54:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 61.08,
+    "date": {
+      "utc": "2024-02-04T04:22:29+00:00",
+      "local": "2024-02-04T09:52:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 59.7,
+    "date": {
+      "utc": "2024-02-04T04:20:30+00:00",
+      "local": "2024-02-04T09:50:30+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 57.86,
+    "date": {
+      "utc": "2024-02-04T04:18:29+00:00",
+      "local": "2024-02-04T09:48:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 59.97,
+    "date": {
+      "utc": "2024-02-04T04:16:29+00:00",
+      "local": "2024-02-04T09:46:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 58.1,
+    "date": {
+      "utc": "2024-02-04T04:14:29+00:00",
+      "local": "2024-02-04T09:44:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 59.98,
+    "date": {
+      "utc": "2024-02-04T04:12:28+00:00",
+      "local": "2024-02-04T09:42:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 63.32,
+    "date": {
+      "utc": "2024-02-04T04:10:28+00:00",
+      "local": "2024-02-04T09:40:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 65.38,
+    "date": {
+      "utc": "2024-02-04T04:08:28+00:00",
+      "local": "2024-02-04T09:38:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 65.91,
+    "date": {
+      "utc": "2024-02-04T04:06:28+00:00",
+      "local": "2024-02-04T09:36:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 61.61,
+    "date": {
+      "utc": "2024-02-04T04:04:28+00:00",
+      "local": "2024-02-04T09:34:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 63.24,
+    "date": {
+      "utc": "2024-02-04T04:02:28+00:00",
+      "local": "2024-02-04T09:32:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 71.3,
+    "date": {
+      "utc": "2024-02-04T04:00:28+00:00",
+      "local": "2024-02-04T09:30:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 72.8,
+    "date": {
+      "utc": "2024-02-04T03:58:28+00:00",
+      "local": "2024-02-04T09:28:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 63.73,
+    "date": {
+      "utc": "2024-02-04T03:56:28+00:00",
+      "local": "2024-02-04T09:26:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 69.31,
+    "date": {
+      "utc": "2024-02-04T03:54:28+00:00",
+      "local": "2024-02-04T09:24:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 65.47,
+    "date": {
+      "utc": "2024-02-04T03:52:29+00:00",
+      "local": "2024-02-04T09:22:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 65.85,
+    "date": {
+      "utc": "2024-02-04T03:50:28+00:00",
+      "local": "2024-02-04T09:20:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 66.03,
+    "date": {
+      "utc": "2024-02-04T03:48:28+00:00",
+      "local": "2024-02-04T09:18:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 65.98,
+    "date": {
+      "utc": "2024-02-04T03:46:28+00:00",
+      "local": "2024-02-04T09:16:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 66.6,
+    "date": {
+      "utc": "2024-02-04T03:44:28+00:00",
+      "local": "2024-02-04T09:14:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 69.27,
+    "date": {
+      "utc": "2024-02-04T03:40:28+00:00",
+      "local": "2024-02-04T09:10:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 69.37,
+    "date": {
+      "utc": "2024-02-04T03:38:28+00:00",
+      "local": "2024-02-04T09:08:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 66.92,
+    "date": {
+      "utc": "2024-02-04T03:36:28+00:00",
+      "local": "2024-02-04T09:06:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 66.67,
+    "date": {
+      "utc": "2024-02-04T03:34:28+00:00",
+      "local": "2024-02-04T09:04:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 69.58,
+    "date": {
+      "utc": "2024-02-04T03:32:28+00:00",
+      "local": "2024-02-04T09:02:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 67.68,
+    "date": {
+      "utc": "2024-02-04T03:30:28+00:00",
+      "local": "2024-02-04T09:00:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 66.16,
+    "date": {
+      "utc": "2024-02-04T03:28:28+00:00",
+      "local": "2024-02-04T08:58:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 68.63,
+    "date": {
+      "utc": "2024-02-04T03:26:28+00:00",
+      "local": "2024-02-04T08:56:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 70.14,
+    "date": {
+      "utc": "2024-02-04T03:24:28+00:00",
+      "local": "2024-02-04T08:54:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 70.49,
+    "date": {
+      "utc": "2024-02-04T03:22:28+00:00",
+      "local": "2024-02-04T08:52:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 70.72,
+    "date": {
+      "utc": "2024-02-04T03:20:29+00:00",
+      "local": "2024-02-04T08:50:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 74.03,
+    "date": {
+      "utc": "2024-02-04T03:18:28+00:00",
+      "local": "2024-02-04T08:48:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 70.87,
+    "date": {
+      "utc": "2024-02-04T03:16:29+00:00",
+      "local": "2024-02-04T08:46:29+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 70.75,
+    "date": {
+      "utc": "2024-02-04T03:14:28+00:00",
+      "local": "2024-02-04T08:44:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 75.63,
+    "date": {
+      "utc": "2024-02-04T03:12:27+00:00",
+      "local": "2024-02-04T08:42:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 77.64,
+    "date": {
+      "utc": "2024-02-04T03:10:28+00:00",
+      "local": "2024-02-04T08:40:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 74.91,
+    "date": {
+      "utc": "2024-02-04T03:08:27+00:00",
+      "local": "2024-02-04T08:38:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 88.22,
+    "date": {
+      "utc": "2024-02-04T03:06:27+00:00",
+      "local": "2024-02-04T08:36:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 75.3,
+    "date": {
+      "utc": "2024-02-04T03:04:27+00:00",
+      "local": "2024-02-04T08:34:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 74.79,
+    "date": {
+      "utc": "2024-02-04T03:02:27+00:00",
+      "local": "2024-02-04T08:32:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 77.43,
+    "date": {
+      "utc": "2024-02-04T03:00:28+00:00",
+      "local": "2024-02-04T08:30:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 78.86,
+    "date": {
+      "utc": "2024-02-04T02:58:27+00:00",
+      "local": "2024-02-04T08:28:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 79.26,
+    "date": {
+      "utc": "2024-02-04T02:56:27+00:00",
+      "local": "2024-02-04T08:26:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 83.15,
+    "date": {
+      "utc": "2024-02-04T02:54:27+00:00",
+      "local": "2024-02-04T08:24:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 79.84,
+    "date": {
+      "utc": "2024-02-04T02:52:27+00:00",
+      "local": "2024-02-04T08:22:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 78.26,
+    "date": {
+      "utc": "2024-02-04T02:50:27+00:00",
+      "local": "2024-02-04T08:20:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 80.93,
+    "date": {
+      "utc": "2024-02-04T02:48:27+00:00",
+      "local": "2024-02-04T08:18:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 80.99,
+    "date": {
+      "utc": "2024-02-04T02:46:27+00:00",
+      "local": "2024-02-04T08:16:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 76.82,
+    "date": {
+      "utc": "2024-02-04T02:44:27+00:00",
+      "local": "2024-02-04T08:14:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 83.25,
+    "date": {
+      "utc": "2024-02-04T02:40:27+00:00",
+      "local": "2024-02-04T08:10:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 80.19,
+    "date": {
+      "utc": "2024-02-04T02:38:27+00:00",
+      "local": "2024-02-04T08:08:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 85.32,
+    "date": {
+      "utc": "2024-02-04T02:36:27+00:00",
+      "local": "2024-02-04T08:06:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 90.67,
+    "date": {
+      "utc": "2024-02-04T02:34:27+00:00",
+      "local": "2024-02-04T08:04:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 85.76,
+    "date": {
+      "utc": "2024-02-04T02:32:27+00:00",
+      "local": "2024-02-04T08:02:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 83.15,
+    "date": {
+      "utc": "2024-02-04T02:30:27+00:00",
+      "local": "2024-02-04T08:00:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 81.77,
+    "date": {
+      "utc": "2024-02-04T02:28:27+00:00",
+      "local": "2024-02-04T07:58:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 81.41,
+    "date": {
+      "utc": "2024-02-04T02:26:27+00:00",
+      "local": "2024-02-04T07:56:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 77.21,
+    "date": {
+      "utc": "2024-02-04T02:24:27+00:00",
+      "local": "2024-02-04T07:54:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 77.58,
+    "date": {
+      "utc": "2024-02-04T02:22:27+00:00",
+      "local": "2024-02-04T07:52:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 79.81,
+    "date": {
+      "utc": "2024-02-04T02:20:28+00:00",
+      "local": "2024-02-04T07:50:28+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 75.86,
+    "date": {
+      "utc": "2024-02-04T02:18:27+00:00",
+      "local": "2024-02-04T07:48:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 76.55,
+    "date": {
+      "utc": "2024-02-04T02:16:27+00:00",
+      "local": "2024-02-04T07:46:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 78.82,
+    "date": {
+      "utc": "2024-02-04T02:14:27+00:00",
+      "local": "2024-02-04T07:44:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 75.07,
+    "date": {
+      "utc": "2024-02-04T02:12:27+00:00",
+      "local": "2024-02-04T07:42:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 71.61,
+    "date": {
+      "utc": "2024-02-04T02:10:27+00:00",
+      "local": "2024-02-04T07:40:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 71.23,
+    "date": {
+      "utc": "2024-02-04T02:08:27+00:00",
+      "local": "2024-02-04T07:38:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 71.32,
+    "date": {
+      "utc": "2024-02-04T02:06:27+00:00",
+      "local": "2024-02-04T07:36:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 229138,
+    "location": "Srinivaspur",
+    "parameter": "um003",
+    "value": 74.84,
+    "date": {
+      "utc": "2024-02-04T02:04:27+00:00",
+      "local": "2024-02-04T07:34:27+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 13.343778,
+      "longitude": 78.21471
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

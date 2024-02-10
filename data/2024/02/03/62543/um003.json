@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 301.22,
+    "date": {
+      "utc": "2024-02-04T05:29:24+00:00",
+      "local": "2024-02-04T10:59:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 305.41,
+    "date": {
+      "utc": "2024-02-04T05:27:24+00:00",
+      "local": "2024-02-04T10:57:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 306.49,
+    "date": {
+      "utc": "2024-02-04T05:25:24+00:00",
+      "local": "2024-02-04T10:55:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 305.3,
+    "date": {
+      "utc": "2024-02-04T05:23:24+00:00",
+      "local": "2024-02-04T10:53:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 302.97,
+    "date": {
+      "utc": "2024-02-04T05:21:24+00:00",
+      "local": "2024-02-04T10:51:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 302.56,
+    "date": {
+      "utc": "2024-02-04T05:19:24+00:00",
+      "local": "2024-02-04T10:49:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 308.04,
+    "date": {
+      "utc": "2024-02-04T05:17:24+00:00",
+      "local": "2024-02-04T10:47:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 305.44,
+    "date": {
+      "utc": "2024-02-04T05:15:24+00:00",
+      "local": "2024-02-04T10:45:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 291.63,
+    "date": {
+      "utc": "2024-02-04T05:13:24+00:00",
+      "local": "2024-02-04T10:43:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 288.5,
+    "date": {
+      "utc": "2024-02-04T05:11:24+00:00",
+      "local": "2024-02-04T10:41:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 293.13,
+    "date": {
+      "utc": "2024-02-04T05:09:24+00:00",
+      "local": "2024-02-04T10:39:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 295.13,
+    "date": {
+      "utc": "2024-02-04T05:07:24+00:00",
+      "local": "2024-02-04T10:37:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 290.92,
+    "date": {
+      "utc": "2024-02-04T05:05:24+00:00",
+      "local": "2024-02-04T10:35:24+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 286.9,
+    "date": {
+      "utc": "2024-02-04T05:03:23+00:00",
+      "local": "2024-02-04T10:33:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 283.8,
+    "date": {
+      "utc": "2024-02-04T05:01:23+00:00",
+      "local": "2024-02-04T10:31:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 285.46,
+    "date": {
+      "utc": "2024-02-04T04:59:23+00:00",
+      "local": "2024-02-04T10:29:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 284.2,
+    "date": {
+      "utc": "2024-02-04T04:57:23+00:00",
+      "local": "2024-02-04T10:27:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 284.08,
+    "date": {
+      "utc": "2024-02-04T04:55:23+00:00",
+      "local": "2024-02-04T10:25:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 282.64,
+    "date": {
+      "utc": "2024-02-04T04:53:23+00:00",
+      "local": "2024-02-04T10:23:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 287.89,
+    "date": {
+      "utc": "2024-02-04T04:51:23+00:00",
+      "local": "2024-02-04T10:21:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 288.42,
+    "date": {
+      "utc": "2024-02-04T04:49:23+00:00",
+      "local": "2024-02-04T10:19:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 290.87,
+    "date": {
+      "utc": "2024-02-04T04:47:23+00:00",
+      "local": "2024-02-04T10:17:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 286.38,
+    "date": {
+      "utc": "2024-02-04T04:45:23+00:00",
+      "local": "2024-02-04T10:15:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 283.74,
+    "date": {
+      "utc": "2024-02-04T04:43:23+00:00",
+      "local": "2024-02-04T10:13:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 281.49,
+    "date": {
+      "utc": "2024-02-04T04:41:23+00:00",
+      "local": "2024-02-04T10:11:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 281.07,
+    "date": {
+      "utc": "2024-02-04T04:39:23+00:00",
+      "local": "2024-02-04T10:09:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 276.44,
+    "date": {
+      "utc": "2024-02-04T04:37:23+00:00",
+      "local": "2024-02-04T10:07:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 276.51,
+    "date": {
+      "utc": "2024-02-04T04:35:23+00:00",
+      "local": "2024-02-04T10:05:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 274.27,
+    "date": {
+      "utc": "2024-02-04T04:33:23+00:00",
+      "local": "2024-02-04T10:03:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 274.85,
+    "date": {
+      "utc": "2024-02-04T04:31:23+00:00",
+      "local": "2024-02-04T10:01:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 270.03,
+    "date": {
+      "utc": "2024-02-04T04:29:23+00:00",
+      "local": "2024-02-04T09:59:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 272.2,
+    "date": {
+      "utc": "2024-02-04T04:27:23+00:00",
+      "local": "2024-02-04T09:57:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 273.05,
+    "date": {
+      "utc": "2024-02-04T04:25:23+00:00",
+      "local": "2024-02-04T09:55:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 276.61,
+    "date": {
+      "utc": "2024-02-04T04:21:23+00:00",
+      "local": "2024-02-04T09:51:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 282.59,
+    "date": {
+      "utc": "2024-02-04T04:19:23+00:00",
+      "local": "2024-02-04T09:49:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 303.38,
+    "date": {
+      "utc": "2024-02-04T04:17:23+00:00",
+      "local": "2024-02-04T09:47:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 295.84,
+    "date": {
+      "utc": "2024-02-04T04:15:23+00:00",
+      "local": "2024-02-04T09:45:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 291.58,
+    "date": {
+      "utc": "2024-02-04T04:13:23+00:00",
+      "local": "2024-02-04T09:43:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 307.58,
+    "date": {
+      "utc": "2024-02-04T04:11:23+00:00",
+      "local": "2024-02-04T09:41:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 309.3,
+    "date": {
+      "utc": "2024-02-04T04:09:23+00:00",
+      "local": "2024-02-04T09:39:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 307.49,
+    "date": {
+      "utc": "2024-02-04T04:07:23+00:00",
+      "local": "2024-02-04T09:37:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 309.43,
+    "date": {
+      "utc": "2024-02-04T04:05:23+00:00",
+      "local": "2024-02-04T09:35:23+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 298.62,
+    "date": {
+      "utc": "2024-02-04T04:03:22+00:00",
+      "local": "2024-02-04T09:33:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 291.34,
+    "date": {
+      "utc": "2024-02-04T04:01:22+00:00",
+      "local": "2024-02-04T09:31:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 281.82,
+    "date": {
+      "utc": "2024-02-04T03:59:22+00:00",
+      "local": "2024-02-04T09:29:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 281.96,
+    "date": {
+      "utc": "2024-02-04T03:57:22+00:00",
+      "local": "2024-02-04T09:27:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 279.82,
+    "date": {
+      "utc": "2024-02-04T03:55:22+00:00",
+      "local": "2024-02-04T09:25:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 274.05,
+    "date": {
+      "utc": "2024-02-04T03:53:22+00:00",
+      "local": "2024-02-04T09:23:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 277.02,
+    "date": {
+      "utc": "2024-02-04T03:51:22+00:00",
+      "local": "2024-02-04T09:21:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 275.96,
+    "date": {
+      "utc": "2024-02-04T03:49:22+00:00",
+      "local": "2024-02-04T09:19:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 270.13,
+    "date": {
+      "utc": "2024-02-04T03:47:22+00:00",
+      "local": "2024-02-04T09:17:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 270.19,
+    "date": {
+      "utc": "2024-02-04T03:45:22+00:00",
+      "local": "2024-02-04T09:15:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 270.6,
+    "date": {
+      "utc": "2024-02-04T03:43:22+00:00",
+      "local": "2024-02-04T09:13:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 295.77,
+    "date": {
+      "utc": "2024-02-04T03:41:22+00:00",
+      "local": "2024-02-04T09:11:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 325.64,
+    "date": {
+      "utc": "2024-02-04T03:39:22+00:00",
+      "local": "2024-02-04T09:09:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 321.08,
+    "date": {
+      "utc": "2024-02-04T03:37:22+00:00",
+      "local": "2024-02-04T09:07:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 276.32,
+    "date": {
+      "utc": "2024-02-04T03:35:22+00:00",
+      "local": "2024-02-04T09:05:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 253.1,
+    "date": {
+      "utc": "2024-02-04T03:33:22+00:00",
+      "local": "2024-02-04T09:03:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 257.24,
+    "date": {
+      "utc": "2024-02-04T03:31:22+00:00",
+      "local": "2024-02-04T09:01:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 260.11,
+    "date": {
+      "utc": "2024-02-04T03:29:22+00:00",
+      "local": "2024-02-04T08:59:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 261.95,
+    "date": {
+      "utc": "2024-02-04T03:27:22+00:00",
+      "local": "2024-02-04T08:57:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 263.85,
+    "date": {
+      "utc": "2024-02-04T03:25:22+00:00",
+      "local": "2024-02-04T08:55:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 263.14,
+    "date": {
+      "utc": "2024-02-04T03:23:22+00:00",
+      "local": "2024-02-04T08:53:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 263.12,
+    "date": {
+      "utc": "2024-02-04T03:21:22+00:00",
+      "local": "2024-02-04T08:51:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 268.86,
+    "date": {
+      "utc": "2024-02-04T03:19:22+00:00",
+      "local": "2024-02-04T08:49:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 271.61,
+    "date": {
+      "utc": "2024-02-04T03:17:22+00:00",
+      "local": "2024-02-04T08:47:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 265.53,
+    "date": {
+      "utc": "2024-02-04T03:15:22+00:00",
+      "local": "2024-02-04T08:45:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 259.23,
+    "date": {
+      "utc": "2024-02-04T03:13:22+00:00",
+      "local": "2024-02-04T08:43:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 256.27,
+    "date": {
+      "utc": "2024-02-04T03:11:22+00:00",
+      "local": "2024-02-04T08:41:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 257.92,
+    "date": {
+      "utc": "2024-02-04T03:09:22+00:00",
+      "local": "2024-02-04T08:39:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 248.93,
+    "date": {
+      "utc": "2024-02-04T03:07:22+00:00",
+      "local": "2024-02-04T08:37:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 245.51,
+    "date": {
+      "utc": "2024-02-04T03:05:22+00:00",
+      "local": "2024-02-04T08:35:22+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 243.77,
+    "date": {
+      "utc": "2024-02-04T03:03:21+00:00",
+      "local": "2024-02-04T08:33:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 245.06,
+    "date": {
+      "utc": "2024-02-04T03:01:21+00:00",
+      "local": "2024-02-04T08:31:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 240.0,
+    "date": {
+      "utc": "2024-02-04T02:59:21+00:00",
+      "local": "2024-02-04T08:29:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 242.0,
+    "date": {
+      "utc": "2024-02-04T02:57:21+00:00",
+      "local": "2024-02-04T08:27:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 235.62,
+    "date": {
+      "utc": "2024-02-04T02:55:21+00:00",
+      "local": "2024-02-04T08:25:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 234.65,
+    "date": {
+      "utc": "2024-02-04T02:53:21+00:00",
+      "local": "2024-02-04T08:23:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 239.76,
+    "date": {
+      "utc": "2024-02-04T02:51:21+00:00",
+      "local": "2024-02-04T08:21:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 237.18,
+    "date": {
+      "utc": "2024-02-04T02:49:21+00:00",
+      "local": "2024-02-04T08:19:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 234.67,
+    "date": {
+      "utc": "2024-02-04T02:47:21+00:00",
+      "local": "2024-02-04T08:17:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 236.75,
+    "date": {
+      "utc": "2024-02-04T02:45:21+00:00",
+      "local": "2024-02-04T08:15:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 241.68,
+    "date": {
+      "utc": "2024-02-04T02:43:21+00:00",
+      "local": "2024-02-04T08:13:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 241.55,
+    "date": {
+      "utc": "2024-02-04T02:41:21+00:00",
+      "local": "2024-02-04T08:11:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 239.62,
+    "date": {
+      "utc": "2024-02-04T02:39:21+00:00",
+      "local": "2024-02-04T08:09:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 234.18,
+    "date": {
+      "utc": "2024-02-04T02:37:21+00:00",
+      "local": "2024-02-04T08:07:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 234.04,
+    "date": {
+      "utc": "2024-02-04T02:35:21+00:00",
+      "local": "2024-02-04T08:05:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 236.41,
+    "date": {
+      "utc": "2024-02-04T02:31:21+00:00",
+      "local": "2024-02-04T08:01:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 235.54,
+    "date": {
+      "utc": "2024-02-04T02:29:21+00:00",
+      "local": "2024-02-04T07:59:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 231.38,
+    "date": {
+      "utc": "2024-02-04T02:27:21+00:00",
+      "local": "2024-02-04T07:57:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 236.19,
+    "date": {
+      "utc": "2024-02-04T02:25:21+00:00",
+      "local": "2024-02-04T07:55:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 233.01,
+    "date": {
+      "utc": "2024-02-04T02:23:21+00:00",
+      "local": "2024-02-04T07:53:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 230.25,
+    "date": {
+      "utc": "2024-02-04T02:21:21+00:00",
+      "local": "2024-02-04T07:51:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 225.94,
+    "date": {
+      "utc": "2024-02-04T02:19:21+00:00",
+      "local": "2024-02-04T07:49:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 222.49,
+    "date": {
+      "utc": "2024-02-04T02:17:21+00:00",
+      "local": "2024-02-04T07:47:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 223.21,
+    "date": {
+      "utc": "2024-02-04T02:15:21+00:00",
+      "local": "2024-02-04T07:45:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 224.86,
+    "date": {
+      "utc": "2024-02-04T02:13:21+00:00",
+      "local": "2024-02-04T07:43:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 227.57,
+    "date": {
+      "utc": "2024-02-04T02:11:21+00:00",
+      "local": "2024-02-04T07:41:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 223.89,
+    "date": {
+      "utc": "2024-02-04T02:09:21+00:00",
+      "local": "2024-02-04T07:39:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 62543,
+    "location": "Greater Kailash 2",
+    "parameter": "um003",
+    "value": 225.1,
+    "date": {
+      "utc": "2024-02-04T02:07:21+00:00",
+      "local": "2024-02-04T07:37:21+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 28.530668,
+      "longitude": 77.2411
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

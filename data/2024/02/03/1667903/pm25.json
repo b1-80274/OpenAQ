@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 217.7,
+    "date": {
+      "utc": "2024-02-04T05:23:12+00:00",
+      "local": "2024-02-04T10:53:12+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 205.1,
+    "date": {
+      "utc": "2024-02-04T05:03:12+00:00",
+      "local": "2024-02-04T10:33:12+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 209.4,
+    "date": {
+      "utc": "2024-02-04T05:01:12+00:00",
+      "local": "2024-02-04T10:31:12+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 208.3,
+    "date": {
+      "utc": "2024-02-04T04:57:12+00:00",
+      "local": "2024-02-04T10:27:12+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 196.7,
+    "date": {
+      "utc": "2024-02-04T04:55:11+00:00",
+      "local": "2024-02-04T10:25:11+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 200.0,
+    "date": {
+      "utc": "2024-02-04T04:51:11+00:00",
+      "local": "2024-02-04T10:21:11+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 189.2,
+    "date": {
+      "utc": "2024-02-04T04:41:11+00:00",
+      "local": "2024-02-04T10:11:11+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 196.9,
+    "date": {
+      "utc": "2024-02-04T04:35:11+00:00",
+      "local": "2024-02-04T10:05:11+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 212.8,
+    "date": {
+      "utc": "2024-02-04T03:57:11+00:00",
+      "local": "2024-02-04T09:27:11+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.3,
+    "date": {
+      "utc": "2024-02-04T03:55:10+00:00",
+      "local": "2024-02-04T09:25:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 222.8,
+    "date": {
+      "utc": "2024-02-04T03:53:10+00:00",
+      "local": "2024-02-04T09:23:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.9,
+    "date": {
+      "utc": "2024-02-04T03:49:10+00:00",
+      "local": "2024-02-04T09:19:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.7,
+    "date": {
+      "utc": "2024-02-04T03:47:10+00:00",
+      "local": "2024-02-04T09:17:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.7,
+    "date": {
+      "utc": "2024-02-04T03:43:10+00:00",
+      "local": "2024-02-04T09:13:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.4,
+    "date": {
+      "utc": "2024-02-04T03:41:10+00:00",
+      "local": "2024-02-04T09:11:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.7,
+    "date": {
+      "utc": "2024-02-04T03:35:10+00:00",
+      "local": "2024-02-04T09:05:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 218.1,
+    "date": {
+      "utc": "2024-02-04T03:33:10+00:00",
+      "local": "2024-02-04T09:03:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 214.8,
+    "date": {
+      "utc": "2024-02-04T03:27:10+00:00",
+      "local": "2024-02-04T08:57:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.0,
+    "date": {
+      "utc": "2024-02-04T03:17:10+00:00",
+      "local": "2024-02-04T08:47:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.8,
+    "date": {
+      "utc": "2024-02-04T03:13:10+00:00",
+      "local": "2024-02-04T08:43:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 243.2,
+    "date": {
+      "utc": "2024-02-04T03:03:10+00:00",
+      "local": "2024-02-04T08:33:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 239.6,
+    "date": {
+      "utc": "2024-02-04T02:57:10+00:00",
+      "local": "2024-02-04T08:27:10+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 232.0,
+    "date": {
+      "utc": "2024-02-04T02:47:09+00:00",
+      "local": "2024-02-04T08:17:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 227.8,
+    "date": {
+      "utc": "2024-02-04T02:43:09+00:00",
+      "local": "2024-02-04T08:13:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 219.9,
+    "date": {
+      "utc": "2024-02-04T02:33:09+00:00",
+      "local": "2024-02-04T08:03:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.4,
+    "date": {
+      "utc": "2024-02-04T02:31:09+00:00",
+      "local": "2024-02-04T08:01:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 219.7,
+    "date": {
+      "utc": "2024-02-04T02:19:09+00:00",
+      "local": "2024-02-04T07:49:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 217.6,
+    "date": {
+      "utc": "2024-02-04T02:15:09+00:00",
+      "local": "2024-02-04T07:45:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 253.4,
+    "date": {
+      "utc": "2024-02-04T01:59:09+00:00",
+      "local": "2024-02-04T07:29:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 236.1,
+    "date": {
+      "utc": "2024-02-04T01:57:09+00:00",
+      "local": "2024-02-04T07:27:09+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 227.0,
+    "date": {
+      "utc": "2024-02-04T01:51:08+00:00",
+      "local": "2024-02-04T07:21:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 228.4,
+    "date": {
+      "utc": "2024-02-04T01:47:07+00:00",
+      "local": "2024-02-04T07:17:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 227.7,
+    "date": {
+      "utc": "2024-02-04T01:45:08+00:00",
+      "local": "2024-02-04T07:15:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 218.7,
+    "date": {
+      "utc": "2024-02-04T01:43:08+00:00",
+      "local": "2024-02-04T07:13:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.7,
+    "date": {
+      "utc": "2024-02-04T01:41:08+00:00",
+      "local": "2024-02-04T07:11:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 222.1,
+    "date": {
+      "utc": "2024-02-04T01:39:08+00:00",
+      "local": "2024-02-04T07:09:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 246.2,
+    "date": {
+      "utc": "2024-02-04T01:37:08+00:00",
+      "local": "2024-02-04T07:07:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 205.0,
+    "date": {
+      "utc": "2024-02-04T01:31:08+00:00",
+      "local": "2024-02-04T07:01:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 211.8,
+    "date": {
+      "utc": "2024-02-04T01:25:08+00:00",
+      "local": "2024-02-04T06:55:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 207.9,
+    "date": {
+      "utc": "2024-02-04T01:19:08+00:00",
+      "local": "2024-02-04T06:49:08+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 208.5,
+    "date": {
+      "utc": "2024-02-04T01:11:07+00:00",
+      "local": "2024-02-04T06:41:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 234.1,
+    "date": {
+      "utc": "2024-02-04T00:43:07+00:00",
+      "local": "2024-02-04T06:13:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 230.1,
+    "date": {
+      "utc": "2024-02-04T00:41:07+00:00",
+      "local": "2024-02-04T06:11:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 227.9,
+    "date": {
+      "utc": "2024-02-04T00:33:07+00:00",
+      "local": "2024-02-04T06:03:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 235.2,
+    "date": {
+      "utc": "2024-02-04T00:29:07+00:00",
+      "local": "2024-02-04T05:59:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 227.2,
+    "date": {
+      "utc": "2024-02-04T00:25:07+00:00",
+      "local": "2024-02-04T05:55:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 230.2,
+    "date": {
+      "utc": "2024-02-04T00:21:07+00:00",
+      "local": "2024-02-04T05:51:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 234.1,
+    "date": {
+      "utc": "2024-02-04T00:19:07+00:00",
+      "local": "2024-02-04T05:49:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 229.0,
+    "date": {
+      "utc": "2024-02-04T00:15:07+00:00",
+      "local": "2024-02-04T05:45:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 233.3,
+    "date": {
+      "utc": "2024-02-04T00:13:07+00:00",
+      "local": "2024-02-04T05:43:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 228.0,
+    "date": {
+      "utc": "2024-02-04T00:11:07+00:00",
+      "local": "2024-02-04T05:41:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 229.5,
+    "date": {
+      "utc": "2024-02-04T00:09:07+00:00",
+      "local": "2024-02-04T05:39:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 232.8,
+    "date": {
+      "utc": "2024-02-04T00:07:07+00:00",
+      "local": "2024-02-04T05:37:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 230.5,
+    "date": {
+      "utc": "2024-02-04T00:05:07+00:00",
+      "local": "2024-02-04T05:35:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 226.0,
+    "date": {
+      "utc": "2024-02-04T00:03:07+00:00",
+      "local": "2024-02-04T05:33:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 231.0,
+    "date": {
+      "utc": "2024-02-04T00:01:07+00:00",
+      "local": "2024-02-04T05:31:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 230.7,
+    "date": {
+      "utc": "2024-02-03T23:59:07+00:00",
+      "local": "2024-02-04T05:29:07+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 229.9,
+    "date": {
+      "utc": "2024-02-03T23:57:06+00:00",
+      "local": "2024-02-04T05:27:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 228.8,
+    "date": {
+      "utc": "2024-02-03T23:55:06+00:00",
+      "local": "2024-02-04T05:25:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.3,
+    "date": {
+      "utc": "2024-02-03T23:53:06+00:00",
+      "local": "2024-02-04T05:23:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 233.5,
+    "date": {
+      "utc": "2024-02-03T23:47:06+00:00",
+      "local": "2024-02-04T05:17:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 233.8,
+    "date": {
+      "utc": "2024-02-03T23:37:06+00:00",
+      "local": "2024-02-04T05:07:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 223.6,
+    "date": {
+      "utc": "2024-02-03T23:29:06+00:00",
+      "local": "2024-02-04T04:59:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 221.9,
+    "date": {
+      "utc": "2024-02-03T23:27:06+00:00",
+      "local": "2024-02-04T04:57:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 222.1,
+    "date": {
+      "utc": "2024-02-03T23:19:06+00:00",
+      "local": "2024-02-04T04:49:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 218.5,
+    "date": {
+      "utc": "2024-02-03T23:17:06+00:00",
+      "local": "2024-02-04T04:47:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 218.1,
+    "date": {
+      "utc": "2024-02-03T23:13:06+00:00",
+      "local": "2024-02-04T04:43:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 219.9,
+    "date": {
+      "utc": "2024-02-03T23:11:06+00:00",
+      "local": "2024-02-04T04:41:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 225.1,
+    "date": {
+      "utc": "2024-02-03T23:09:06+00:00",
+      "local": "2024-02-04T04:39:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 224.9,
+    "date": {
+      "utc": "2024-02-03T23:05:06+00:00",
+      "local": "2024-02-04T04:35:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 221.5,
+    "date": {
+      "utc": "2024-02-03T23:03:06+00:00",
+      "local": "2024-02-04T04:33:06+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 219.5,
+    "date": {
+      "utc": "2024-02-03T22:57:05+00:00",
+      "local": "2024-02-04T04:27:05+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 222.0,
+    "date": {
+      "utc": "2024-02-03T22:51:04+00:00",
+      "local": "2024-02-04T04:21:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 220.1,
+    "date": {
+      "utc": "2024-02-03T22:49:04+00:00",
+      "local": "2024-02-04T04:19:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 218.1,
+    "date": {
+      "utc": "2024-02-03T22:45:04+00:00",
+      "local": "2024-02-04T04:15:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 216.0,
+    "date": {
+      "utc": "2024-02-03T22:43:04+00:00",
+      "local": "2024-02-04T04:13:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 209.0,
+    "date": {
+      "utc": "2024-02-03T22:41:04+00:00",
+      "local": "2024-02-04T04:11:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 213.3,
+    "date": {
+      "utc": "2024-02-03T22:39:04+00:00",
+      "local": "2024-02-04T04:09:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 214.2,
+    "date": {
+      "utc": "2024-02-03T22:37:04+00:00",
+      "local": "2024-02-04T04:07:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 215.2,
+    "date": {
+      "utc": "2024-02-03T22:35:04+00:00",
+      "local": "2024-02-04T04:05:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 210.4,
+    "date": {
+      "utc": "2024-02-03T22:31:04+00:00",
+      "local": "2024-02-04T04:01:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 204.3,
+    "date": {
+      "utc": "2024-02-03T22:29:04+00:00",
+      "local": "2024-02-04T03:59:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 202.7,
+    "date": {
+      "utc": "2024-02-03T22:27:04+00:00",
+      "local": "2024-02-04T03:57:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 193.7,
+    "date": {
+      "utc": "2024-02-03T22:23:05+00:00",
+      "local": "2024-02-04T03:53:05+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 192.6,
+    "date": {
+      "utc": "2024-02-03T22:21:04+00:00",
+      "local": "2024-02-04T03:51:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 208.6,
+    "date": {
+      "utc": "2024-02-03T22:15:04+00:00",
+      "local": "2024-02-04T03:45:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 252.4,
+    "date": {
+      "utc": "2024-02-03T21:59:04+00:00",
+      "local": "2024-02-04T03:29:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 258.3,
+    "date": {
+      "utc": "2024-02-03T21:57:04+00:00",
+      "local": "2024-02-04T03:27:04+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 249.8,
+    "date": {
+      "utc": "2024-02-03T21:53:03+00:00",
+      "local": "2024-02-04T03:23:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 258.6,
+    "date": {
+      "utc": "2024-02-03T21:49:03+00:00",
+      "local": "2024-02-04T03:19:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 261.1,
+    "date": {
+      "utc": "2024-02-03T21:45:03+00:00",
+      "local": "2024-02-04T03:15:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 267.8,
+    "date": {
+      "utc": "2024-02-03T21:43:03+00:00",
+      "local": "2024-02-04T03:13:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 264.3,
+    "date": {
+      "utc": "2024-02-03T21:39:03+00:00",
+      "local": "2024-02-04T03:09:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 265.6,
+    "date": {
+      "utc": "2024-02-03T21:37:03+00:00",
+      "local": "2024-02-04T03:07:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 267.3,
+    "date": {
+      "utc": "2024-02-03T21:31:03+00:00",
+      "local": "2024-02-04T03:01:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 257.6,
+    "date": {
+      "utc": "2024-02-03T21:25:03+00:00",
+      "local": "2024-02-04T02:55:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 250.9,
+    "date": {
+      "utc": "2024-02-03T21:23:03+00:00",
+      "local": "2024-02-04T02:53:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 263.7,
+    "date": {
+      "utc": "2024-02-03T21:21:03+00:00",
+      "local": "2024-02-04T02:51:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 259.1,
+    "date": {
+      "utc": "2024-02-03T21:19:03+00:00",
+      "local": "2024-02-04T02:49:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 1667903,
+    "location": "15 Oak Drive Outdoor",
+    "parameter": "pm25",
+    "value": 257.6,
+    "date": {
+      "utc": "2024-02-03T21:17:03+00:00",
+      "local": "2024-02-04T02:47:03+05:30"
+    },
+    "unit": "\u00b5g/m\u00b3",
+    "coordinates": {
+      "latitude": 28.490572,
+      "longitude": 77.17101
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 30.23,
+    "date": {
+      "utc": "2024-02-04T05:22:57+00:00",
+      "local": "2024-02-04T10:52:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 30.35,
+    "date": {
+      "utc": "2024-02-04T05:12:57+00:00",
+      "local": "2024-02-04T10:42:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 31.53,
+    "date": {
+      "utc": "2024-02-04T05:08:57+00:00",
+      "local": "2024-02-04T10:38:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 37.57,
+    "date": {
+      "utc": "2024-02-04T05:02:57+00:00",
+      "local": "2024-02-04T10:32:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 37.93,
+    "date": {
+      "utc": "2024-02-04T05:00:57+00:00",
+      "local": "2024-02-04T10:30:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 38.49,
+    "date": {
+      "utc": "2024-02-04T04:58:57+00:00",
+      "local": "2024-02-04T10:28:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 37.53,
+    "date": {
+      "utc": "2024-02-04T04:56:57+00:00",
+      "local": "2024-02-04T10:26:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 40.02,
+    "date": {
+      "utc": "2024-02-04T04:54:57+00:00",
+      "local": "2024-02-04T10:24:57+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 40.12,
+    "date": {
+      "utc": "2024-02-04T04:50:56+00:00",
+      "local": "2024-02-04T10:20:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.59,
+    "date": {
+      "utc": "2024-02-04T04:40:55+00:00",
+      "local": "2024-02-04T10:10:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.92,
+    "date": {
+      "utc": "2024-02-04T04:36:55+00:00",
+      "local": "2024-02-04T10:06:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 36.34,
+    "date": {
+      "utc": "2024-02-04T04:34:55+00:00",
+      "local": "2024-02-04T10:04:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 36.03,
+    "date": {
+      "utc": "2024-02-04T04:32:56+00:00",
+      "local": "2024-02-04T10:02:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.17,
+    "date": {
+      "utc": "2024-02-04T04:28:55+00:00",
+      "local": "2024-02-04T09:58:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.46,
+    "date": {
+      "utc": "2024-02-04T04:26:56+00:00",
+      "local": "2024-02-04T09:56:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 38.06,
+    "date": {
+      "utc": "2024-02-04T04:24:55+00:00",
+      "local": "2024-02-04T09:54:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 41.76,
+    "date": {
+      "utc": "2024-02-04T04:20:56+00:00",
+      "local": "2024-02-04T09:50:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.73,
+    "date": {
+      "utc": "2024-02-04T04:16:55+00:00",
+      "local": "2024-02-04T09:46:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.57,
+    "date": {
+      "utc": "2024-02-04T04:14:56+00:00",
+      "local": "2024-02-04T09:44:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.72,
+    "date": {
+      "utc": "2024-02-04T04:12:55+00:00",
+      "local": "2024-02-04T09:42:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.78,
+    "date": {
+      "utc": "2024-02-04T04:06:55+00:00",
+      "local": "2024-02-04T09:36:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 39.42,
+    "date": {
+      "utc": "2024-02-04T04:02:55+00:00",
+      "local": "2024-02-04T09:32:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 40.31,
+    "date": {
+      "utc": "2024-02-04T03:56:56+00:00",
+      "local": "2024-02-04T09:26:56+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 38.17,
+    "date": {
+      "utc": "2024-02-04T03:54:55+00:00",
+      "local": "2024-02-04T09:24:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 40.43,
+    "date": {
+      "utc": "2024-02-04T03:52:55+00:00",
+      "local": "2024-02-04T09:22:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 42.72,
+    "date": {
+      "utc": "2024-02-04T03:48:55+00:00",
+      "local": "2024-02-04T09:18:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 42.26,
+    "date": {
+      "utc": "2024-02-04T03:46:55+00:00",
+      "local": "2024-02-04T09:16:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 43.37,
+    "date": {
+      "utc": "2024-02-04T03:42:55+00:00",
+      "local": "2024-02-04T09:12:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 43.3,
+    "date": {
+      "utc": "2024-02-04T03:40:54+00:00",
+      "local": "2024-02-04T09:10:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 44.04,
+    "date": {
+      "utc": "2024-02-04T03:36:54+00:00",
+      "local": "2024-02-04T09:06:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 44.54,
+    "date": {
+      "utc": "2024-02-04T03:34:55+00:00",
+      "local": "2024-02-04T09:04:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 44.21,
+    "date": {
+      "utc": "2024-02-04T03:32:55+00:00",
+      "local": "2024-02-04T09:02:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.15,
+    "date": {
+      "utc": "2024-02-04T03:26:55+00:00",
+      "local": "2024-02-04T08:56:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 50.52,
+    "date": {
+      "utc": "2024-02-04T03:22:54+00:00",
+      "local": "2024-02-04T08:52:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 58.8,
+    "date": {
+      "utc": "2024-02-04T03:20:55+00:00",
+      "local": "2024-02-04T08:50:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.96,
+    "date": {
+      "utc": "2024-02-04T03:16:54+00:00",
+      "local": "2024-02-04T08:46:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 51.56,
+    "date": {
+      "utc": "2024-02-04T03:12:55+00:00",
+      "local": "2024-02-04T08:42:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.07,
+    "date": {
+      "utc": "2024-02-04T03:04:54+00:00",
+      "local": "2024-02-04T08:34:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.35,
+    "date": {
+      "utc": "2024-02-04T03:02:55+00:00",
+      "local": "2024-02-04T08:32:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.94,
+    "date": {
+      "utc": "2024-02-04T02:56:55+00:00",
+      "local": "2024-02-04T08:26:55+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.61,
+    "date": {
+      "utc": "2024-02-04T02:54:54+00:00",
+      "local": "2024-02-04T08:24:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.52,
+    "date": {
+      "utc": "2024-02-04T02:46:53+00:00",
+      "local": "2024-02-04T08:16:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 50.36,
+    "date": {
+      "utc": "2024-02-04T02:44:53+00:00",
+      "local": "2024-02-04T08:14:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 52.37,
+    "date": {
+      "utc": "2024-02-04T02:42:53+00:00",
+      "local": "2024-02-04T08:12:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.38,
+    "date": {
+      "utc": "2024-02-04T02:38:53+00:00",
+      "local": "2024-02-04T08:08:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 50.61,
+    "date": {
+      "utc": "2024-02-04T02:36:53+00:00",
+      "local": "2024-02-04T08:06:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 51.06,
+    "date": {
+      "utc": "2024-02-04T02:32:54+00:00",
+      "local": "2024-02-04T08:02:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.97,
+    "date": {
+      "utc": "2024-02-04T02:30:53+00:00",
+      "local": "2024-02-04T08:00:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.26,
+    "date": {
+      "utc": "2024-02-04T02:28:53+00:00",
+      "local": "2024-02-04T07:58:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 51.53,
+    "date": {
+      "utc": "2024-02-04T02:26:53+00:00",
+      "local": "2024-02-04T07:56:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.74,
+    "date": {
+      "utc": "2024-02-04T02:18:53+00:00",
+      "local": "2024-02-04T07:48:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.3,
+    "date": {
+      "utc": "2024-02-04T02:14:53+00:00",
+      "local": "2024-02-04T07:44:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.71,
+    "date": {
+      "utc": "2024-02-04T02:12:53+00:00",
+      "local": "2024-02-04T07:42:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.07,
+    "date": {
+      "utc": "2024-02-04T02:10:53+00:00",
+      "local": "2024-02-04T07:40:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.68,
+    "date": {
+      "utc": "2024-02-04T02:06:54+00:00",
+      "local": "2024-02-04T07:36:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 45.88,
+    "date": {
+      "utc": "2024-02-04T02:00:54+00:00",
+      "local": "2024-02-04T07:30:54+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.32,
+    "date": {
+      "utc": "2024-02-04T01:58:53+00:00",
+      "local": "2024-02-04T07:28:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 45.21,
+    "date": {
+      "utc": "2024-02-04T01:56:53+00:00",
+      "local": "2024-02-04T07:26:53+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.63,
+    "date": {
+      "utc": "2024-02-04T01:52:52+00:00",
+      "local": "2024-02-04T07:22:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.28,
+    "date": {
+      "utc": "2024-02-04T01:50:52+00:00",
+      "local": "2024-02-04T07:20:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.42,
+    "date": {
+      "utc": "2024-02-04T01:46:52+00:00",
+      "local": "2024-02-04T07:16:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.4,
+    "date": {
+      "utc": "2024-02-04T01:44:52+00:00",
+      "local": "2024-02-04T07:14:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.7,
+    "date": {
+      "utc": "2024-02-04T01:42:52+00:00",
+      "local": "2024-02-04T07:12:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.11,
+    "date": {
+      "utc": "2024-02-04T01:40:52+00:00",
+      "local": "2024-02-04T07:10:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.77,
+    "date": {
+      "utc": "2024-02-04T01:38:52+00:00",
+      "local": "2024-02-04T07:08:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.04,
+    "date": {
+      "utc": "2024-02-04T01:36:52+00:00",
+      "local": "2024-02-04T07:06:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.27,
+    "date": {
+      "utc": "2024-02-04T01:32:52+00:00",
+      "local": "2024-02-04T07:02:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.78,
+    "date": {
+      "utc": "2024-02-04T01:30:52+00:00",
+      "local": "2024-02-04T07:00:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 44.99,
+    "date": {
+      "utc": "2024-02-04T01:26:52+00:00",
+      "local": "2024-02-04T06:56:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.77,
+    "date": {
+      "utc": "2024-02-04T01:24:52+00:00",
+      "local": "2024-02-04T06:54:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.46,
+    "date": {
+      "utc": "2024-02-04T01:18:52+00:00",
+      "local": "2024-02-04T06:48:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.17,
+    "date": {
+      "utc": "2024-02-04T01:16:52+00:00",
+      "local": "2024-02-04T06:46:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.65,
+    "date": {
+      "utc": "2024-02-04T01:14:52+00:00",
+      "local": "2024-02-04T06:44:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.52,
+    "date": {
+      "utc": "2024-02-04T01:12:52+00:00",
+      "local": "2024-02-04T06:42:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.6,
+    "date": {
+      "utc": "2024-02-04T01:10:52+00:00",
+      "local": "2024-02-04T06:40:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.26,
+    "date": {
+      "utc": "2024-02-04T01:08:52+00:00",
+      "local": "2024-02-04T06:38:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 50.28,
+    "date": {
+      "utc": "2024-02-04T01:06:52+00:00",
+      "local": "2024-02-04T06:36:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.53,
+    "date": {
+      "utc": "2024-02-04T01:04:52+00:00",
+      "local": "2024-02-04T06:34:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.43,
+    "date": {
+      "utc": "2024-02-04T01:00:52+00:00",
+      "local": "2024-02-04T06:30:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.06,
+    "date": {
+      "utc": "2024-02-04T00:58:52+00:00",
+      "local": "2024-02-04T06:28:52+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.56,
+    "date": {
+      "utc": "2024-02-04T00:52:50+00:00",
+      "local": "2024-02-04T06:22:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 45.91,
+    "date": {
+      "utc": "2024-02-04T00:50:51+00:00",
+      "local": "2024-02-04T06:20:51+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.08,
+    "date": {
+      "utc": "2024-02-04T00:42:50+00:00",
+      "local": "2024-02-04T06:12:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 46.9,
+    "date": {
+      "utc": "2024-02-04T00:40:50+00:00",
+      "local": "2024-02-04T06:10:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.57,
+    "date": {
+      "utc": "2024-02-04T00:38:50+00:00",
+      "local": "2024-02-04T06:08:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.67,
+    "date": {
+      "utc": "2024-02-04T00:36:50+00:00",
+      "local": "2024-02-04T06:06:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.5,
+    "date": {
+      "utc": "2024-02-04T00:34:50+00:00",
+      "local": "2024-02-04T06:04:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.63,
+    "date": {
+      "utc": "2024-02-04T00:32:51+00:00",
+      "local": "2024-02-04T06:02:51+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.18,
+    "date": {
+      "utc": "2024-02-04T00:30:50+00:00",
+      "local": "2024-02-04T06:00:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.37,
+    "date": {
+      "utc": "2024-02-04T00:28:50+00:00",
+      "local": "2024-02-04T05:58:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.13,
+    "date": {
+      "utc": "2024-02-04T00:24:50+00:00",
+      "local": "2024-02-04T05:54:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.59,
+    "date": {
+      "utc": "2024-02-04T00:22:51+00:00",
+      "local": "2024-02-04T05:52:51+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.1,
+    "date": {
+      "utc": "2024-02-04T00:20:50+00:00",
+      "local": "2024-02-04T05:50:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 49.36,
+    "date": {
+      "utc": "2024-02-04T00:18:50+00:00",
+      "local": "2024-02-04T05:48:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 47.56,
+    "date": {
+      "utc": "2024-02-04T00:16:50+00:00",
+      "local": "2024-02-04T05:46:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.73,
+    "date": {
+      "utc": "2024-02-04T00:14:51+00:00",
+      "local": "2024-02-04T05:44:51+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.37,
+    "date": {
+      "utc": "2024-02-04T00:12:50+00:00",
+      "local": "2024-02-04T05:42:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.1,
+    "date": {
+      "utc": "2024-02-04T00:10:50+00:00",
+      "local": "2024-02-04T05:40:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.04,
+    "date": {
+      "utc": "2024-02-04T00:08:50+00:00",
+      "local": "2024-02-04T05:38:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  },
+  {
+    "locationId": 67569,
+    "location": "Pride Orchid, Whitefield, Bangalore",
+    "parameter": "um005",
+    "value": 48.7,
+    "date": {
+      "utc": "2024-02-04T00:06:50+00:00",
+      "local": "2024-02-04T05:36:50+05:30"
+    },
+    "unit": "particles/cm\u00b3",
+    "coordinates": {
+      "latitude": 12.954312,
+      "longitude": 77.72285
+    },
+    "country": "IN",
+    "city": null,
+    "isMobile": false,
+    "isAnalysis": null,
+    "entity": "Community Organization",
+    "sensorType": "low-cost sensor"
+  }
+]
